@@ -2184,10 +2184,10 @@ ul {
 
 .social-icon {
     display: inline-block;
-    width: 30px;
-    height: 30px;
-    line-height: 30px;
-    font-size: 25px;
+    width: 20px;
+    height: 20px;
+    line-height: 20px;
+    font-size: 12px;
     color: #333;
     text-align: center;
     border: 1px solid #ebebeb;
